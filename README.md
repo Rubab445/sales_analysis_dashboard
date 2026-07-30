@@ -2,9 +2,6 @@
 
 An 8-page Power BI dashboard built to analyze sales performance, profitability, and growth opportunities for a retail business across categories, regions, and time.
 
-
-**📊 Power BI File:** [Sales_Analysis.pbix](./Sales_Analysis.pbix)
-
 ---
 
 ## Overview
@@ -46,14 +43,22 @@ The brief also specified the client's fiscal year starts in **July**, not Januar
 
 | Page | What it answers |
 |---|---|
-| **Overview** | Landing page with navigation to each analysis area |
-| **Product & Category Performance** | Which categories/sub-categories drive sales vs. profit |
-| **Revenue Trends & Seasonality** | Monthly/quarterly trends on a custom fiscal calendar (FY starts July) |
-| **Top Performing Products** | Top 10 products by revenue, units sold, and last-90-days rolling sales |
-| **Profit Margin Analysis** | Category margins with a below-10% threshold flag |
-| **Regional Performance** | Region/state breakdown with top/lowest performer callouts |
-| **Discounting Impact** | Relationship between discount depth and profit erosion |
-| **Customer Segments** | Revenue contribution by customer segment |
+| **Overview** | Landing page with navigation to each analysis area | <img width="470" height="270" alt="overview" src="https://github.com/user-attachments/assets/97c90dc0-343d-4af2-a82f-a2f4eb200b9c" />
+
+| **Product & Category Performance** | Which categories/sub-categories drive sales vs. profit | <img width="638" height="367" alt="Product Performance" src="https://github.com/user-attachments/assets/fe4657b7-5fa4-4a1e-9090-9a2048a0450b" />
+
+| **Revenue Trends & Seasonality** | Monthly/quarterly trends on a custom fiscal calendar (FY starts July) |<img width="644" height="362" alt="Revenue Trends" src="https://github.com/user-attachments/assets/5526174d-a93d-4d9b-978e-f99a75267359" />
+
+| **Top Performing Products** | Top 10 products by revenue, units sold, and last-90-days rolling sales | <img width="643" height="366" alt="Top Products" src="https://github.com/user-attachments/assets/e1914cfc-695d-4f5d-b7de-d8de567832f2" />
+
+| **Profit Margin Analysis** | Category margins with a below-10% threshold flag | <img width="646" height="368" alt="Profit Analysis" src="https://github.com/user-attachments/assets/ba51d383-1919-436c-96e3-943fc6e5ad08" />
+
+| **Regional Performance** | Region/state breakdown with top/lowest performer callouts | <img width="643" height="361" alt="Regional Performance" src="https://github.com/user-attachments/assets/6e3a2893-044b-459e-af59-bde9b8aa5b3c" />
+
+| **Discounting Impact** | Relationship between discount depth and profit erosion | <img width="642" height="370" alt="Discount Impact" src="https://github.com/user-attachments/assets/b8a0049a-5e68-45ab-a1d0-7345dbda04e4" />
+
+| **Customer Segments** | Revenue contribution by customer segment | <img width="641" height="373" alt="Customer Segments" src="https://github.com/user-attachments/assets/f8dfb7ca-854f-4efe-84d3-c8b3df384fc5" />
+
 
 
 
