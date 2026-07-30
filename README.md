@@ -43,7 +43,8 @@ The brief also specified the client's fiscal year starts in **July**, not Januar
 
 | Page | What it answers |
 |---|---|
-| **Overview** | Landing page with navigation to each analysis area | <img width="470" height="270" alt="overview" src="https://github.com/user-attachments/assets/97c90dc0-343d-4af2-a82f-a2f4eb200b9c" />
+| **Overview** | Landing page with navigation to each analysis area | <img width="470" height="270" alt="overview" src="https://github.com/user-attachments/assets/db89e9c8-f7bb-4d60-acb1-cc8b1fb6f52a" />
+
 
 | **Product & Category Performance** | Which categories/sub-categories drive sales vs. profit | <img width="638" height="367" alt="Product Performance" src="https://github.com/user-attachments/assets/fe4657b7-5fa4-4a1e-9090-9a2048a0450b" />
 
